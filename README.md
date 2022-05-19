@@ -13,7 +13,7 @@ python実行環境があるlinuxシステムにおいて、このレポジトリ
 ※python実行環境はconda環境を使っていただくこともできます。(`conda activate qiime2-2022.2`)
 
 ```bash
-git clone 
+git clone git@github.com:dakesan/linux_python_minimum_example.git
 ```
 
 cloneできたら、そのディレクトリに移動します。
